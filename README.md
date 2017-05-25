@@ -1,3 +1,5 @@
+# AOP切面分析Android项目，感谢作者couchbaselabs
+
 **This repository is in the process of being deprecated.  See the [Android TODO app](https://developer.couchbase.com/documentation/mobile/1.3/training/develop/create-database/index.html) in the training documentation for a more up-to-date sample.
 
 ## ToDo Lite for Android
